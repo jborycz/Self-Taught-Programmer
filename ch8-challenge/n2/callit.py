@@ -1,0 +1,3 @@
+import cubed
+cubed.f()    
+    
