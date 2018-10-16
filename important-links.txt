@@ -1,0 +1,14 @@
+
+# Virtual Environments stuff
+https://docs.python-guide.org/dev/virtualenvs/
+
+# Regular expression tool
+https://regexr.com/
+# Regular expression tutorial
+https://www.tutorialspoint.com/python/python_reg_expressions.htm
+
+# Lynda basic GIT course
+https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html?srchtrk=index%3a11%0alinktypeid%3a2%0aq%3aGit%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
+
+
+
